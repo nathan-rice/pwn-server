@@ -1,0 +1,26 @@
+{
+  "name": "pwn-server",
+  "version": "0.0.1",
+  "description": "Service for PWN architecture",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Rice",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "knex": "^0.16.7",
+    "pg": "^7.11.0",
+    "pg-cursor": "^2.0.0",
+    "websocket": "^1.0.28",
+    "ws": "^7.0.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.1",
+    "utf-8-validate": "^5.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.0"
+  }
+}
