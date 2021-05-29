@@ -15,7 +15,7 @@
     "pg": "^7.11.0",
     "pg-cursor": "^2.0.0",
     "websocket": "^1.0.28",
-    "ws": "^7.1.1"
+    "ws": "^7.4.6"
   },
   "optionalDependencies": {
     "bufferutil": "^4.0.1",
