@@ -9,7 +9,7 @@
   "author": "Nathan Rice",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "knex": "^0.16.7",
     "lodash": "^4.17.15",
     "pg": "^7.11.0",
