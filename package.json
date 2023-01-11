@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
-    "knex": "^0.16.7",
+    "knex": "^2.4.0",
     "lodash": "^4.17.15",
     "pg": "^7.11.0",
     "pg-cursor": "^2.0.0",
